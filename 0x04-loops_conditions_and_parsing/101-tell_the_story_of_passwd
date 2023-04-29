@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+s#!/usr/bin/env bash
 # Tells a story based on the contents of the `/etc/passwd` file.
 
 while IFS=':' read username password uid gid info home shell; do
