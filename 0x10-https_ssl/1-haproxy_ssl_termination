@@ -46,5 +46,5 @@ frontend cwpacademy-frontend-https
 
 backend cwpacademy-backend
         balance roundrobin
-        server 63210-web-01 100.25.19.204:80 check
-        server 63210-web-02 54.157.159.85:80 check
+        server 222374-web-01 35.175.63.189:80 check
+        server 222374-web-02 54.83.129.150:80 check
